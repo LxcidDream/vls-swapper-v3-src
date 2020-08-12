@@ -6,7 +6,8 @@
 - **You are allowed to fix it and call it your own at this point i dont care**
 
 ### Features
--items in the swapper
+
+- items in the swapper
     - Skins
     - Backblings
     - Pickaxes
