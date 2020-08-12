@@ -1,0 +1,438 @@
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\bin\Debug\vls swapper v3.exe.config
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\bin\Debug\vls swapper v3.exe
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\bin\Debug\vls swapper v3.pdb
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\bin\Debug\MaterialSkin.dll
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls swapper v3.csprojAssemblyReference.cache
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Main.resources
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Properties.Resources.resources
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls swapper v3.csproj.GenerateResource.cache
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls swapper v3.csproj.CoreCompileInputs.cache
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls swapper v3.csproj.CopyComplete
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls swapper v3.exe
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls swapper v3.pdb
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.SettingTab.resources
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Verify.resources
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.DoneMsg.resources
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.ResetMsg.resources
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.SkinsPanel.resources
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.RenegadeRaider.resources
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.main.popups.Reverted.resources
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.main.popups.paks.resources
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.main.popups.Converted.resources
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\bin\Debug\vls swapper v3.exe.manifest
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\bin\Debug\vls swapper v3.application
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls swapper v3.exe.manifest
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls swapper v3.application
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\bin\Debug\MetroFramework.Design.dll
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\bin\Debug\MetroFramework.dll
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.ReconExpert.resources
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\bin\Debug\Plot.Anima.dll
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.loader.resources
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\bin\Debug\DiscordRPC.dll
+C:\Users\jmass\source\repos\vls swapper v3\vls swapper v3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\bin\Debug\vls swapper v3.exe.config
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\bin\Debug\vls swapper v3.exe.manifest
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\bin\Debug\vls swapper v3.application
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\bin\Debug\vls swapper v3.exe
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\bin\Debug\vls swapper v3.pdb
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.ReconExpert.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.RenegadeRaider.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.loader.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.DoneMsg.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Main.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.main.popups.paks.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.SkinsPanel.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Properties.Resources.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.SettingTab.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Verify.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.ResetMsg.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls swapper v3.csproj.GenerateResource.cache
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls swapper v3.csproj.CoreCompileInputs.cache
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls swapper v3.exe.manifest
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls swapper v3.application
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls swapper v3.csproj.CopyComplete
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls swapper v3.exe
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls swapper v3.pdb
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.items.messages.ghoulstyle.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.ogghoul.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.Wonder.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.backpacksPanel.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.items.backpaks.blackshild.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.items.backpaks.galaxydisc.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Elf.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.Clover.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Hush.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.items.CheckRenegadeAsk.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.items.RenegadeAsk.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.CheckRenegade.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.CheckOps.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Picks.Raiders.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.pickaxesPanel.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.ChaosAgent.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Whiteout.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.arialasualt.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Haze.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Picks.Candy.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Picks.GalaxyPick.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Picks.Minty.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.Enduring.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.EnduringRagnarok.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Other.EnduringAsk.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.Shark.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.WolfPack.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.Scaly.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.RiftWings.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.otherPanel.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Update.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Other.reconask.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.ReconFRK.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.ReconRTL.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Other.CrystalAsk.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Other.IkonikAsk.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.SkullRanger.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.BlackKnight.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Waypoint.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Dynamo.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.IkonikOnesie.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.IkonikFable.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Razor.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Breakpoint.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Other.BackupAsk.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.Backup.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.BackupPerfect.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Credits.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.harleyquinn.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.main.popups.epicyourgay.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.Skinsnokick.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.items.others.cids.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.items.others.NewFolder1.renegaderaider.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.skinscid.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls_swapper_v3.items.kicking.skins.pinkghoulnokick.resources
+C:\Users\jmass\Desktop\vls swapper v3\vls swapper v3\obj\Debug\vls swapper v3.csprojAssemblyReference.cache
+C:\Users\jmass\Desktop\Akame\vls swapper v3\bin\Debug\vls swapper v3.exe.config
+C:\Users\jmass\Desktop\Akame\vls swapper v3\bin\Debug\vls swapper v3.exe.manifest
+C:\Users\jmass\Desktop\Akame\vls swapper v3\bin\Debug\vls swapper v3.application
+C:\Users\jmass\Desktop\Akame\vls swapper v3\bin\Debug\vls swapper v3.exe
+C:\Users\jmass\Desktop\Akame\vls swapper v3\bin\Debug\vls swapper v3.pdb
+C:\Users\jmass\Desktop\Akame\vls swapper v3\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\jmass\Desktop\Akame\vls swapper v3\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.Backup.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.BackupPerfect.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.backpaks.blackshild.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.Clover.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.Enduring.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.EnduringRagnarok.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.backpaks.galaxydisc.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.RiftWings.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.Scaly.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.Shark.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.WolfPack.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.kicking.skins.pinkghoulnokick.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Other.BackupAsk.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.CheckRenegadeAsk.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Other.CrystalAsk.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Other.EnduringAsk.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Other.IkonikAsk.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Other.reconask.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.messages.ghoulstyle.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.RenegadeAsk.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.others.cids.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.others.NewFolder1.renegaderaider.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Picks.Candy.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Picks.GalaxyPick.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Picks.Minty.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Picks.Raiders.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.arialasualt.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.BlackKnight.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Breakpoint.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.ChaosAgent.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.CheckOps.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.CheckRenegade.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Dynamo.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Elf.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.harleyquinn.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Haze.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Hush.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.IkonikFable.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.IkonikOnesie.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.ogghoul.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Razor.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.ReconExpert.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.ReconFRK.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.ReconRTL.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.RenegadeRaider.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.SkullRanger.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Waypoint.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Whiteout.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.Wonder.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.loader.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Update.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Credits.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Main.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.DoneMsg.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.main.popups.epicyourgay.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.main.popups.paks.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.backpacksPanel.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.otherPanel.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.pickaxesPanel.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.skinscid.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.Skinsnokick.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.SkinsPanel.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Properties.Resources.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Verify.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.ResetMsg.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls swapper v3.csproj.GenerateResource.cache
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls swapper v3.csproj.CoreCompileInputs.cache
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls swapper v3.exe.manifest
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls swapper v3.application
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls swapper v3.csproj.CopyComplete
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls swapper v3.exe
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls swapper v3.pdb
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.EmotesPanel.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.FlossEnd.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Dance.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Other.FlossAsk.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.FlossSprinkler.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.FlossSwipe.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.ScenarioElf.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.socals.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.AstroJack.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.britebomber.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.eliteagent.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.takethe.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.cp_skins.treeskin.traviscp.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Picks.Scythe.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.Pickaxes.fncspick.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Picks.Squeak.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.nevergunna.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.laserblast.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Picks.Studded.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.driver.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.illusionruin.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.wondercp.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.galaxycp.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.infection.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.twist.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.levertat.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.diamond.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.startwand.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.battlebusbanner.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.others.banners.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.epicgamesbanner.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.firebackpack.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Menus.LoginMenu.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Menus.Register.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Menus.ResetPass.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.FreeMsg.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.PaidMsg.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.messages.raidersrevenge.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.deufaltraiders.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.blackknight.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.ikonikcp.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.harleyquincp.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.accounterror.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.accountinfo.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.slick.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.sparcle.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.mainiac.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.items.Pickaxes.spicky.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls swapper v3.csprojAssemblyReference.cache
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls swapper v3.csproj.Fody.CopyLocal.cache
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Options.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.AutumnQueen.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.BlueTeamLeader.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.RedNosedNite.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Punchy.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.main.popups.bypassneed.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.main.popups.CPskinerror.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Sparkplug.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Bracer.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Diver.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emote.ponyup.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emote.flapper.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emote.phoneite.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emote.lamacadraba.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emote.Daydream.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emote.poki.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Bolt.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.ShadowOps.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.RoyaleKnight.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Emote.Glowstick.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Ruby.resources
+C:\Users\jmass\Desktop\Akame\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Doublecross.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emote.phoneite.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emote.poki.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emote.Daydream.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emote.lamacadraba.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emote.flapper.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emote.ponyup.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Bolt.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Bracer.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Diver.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Doublecross.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.RoyaleKnight.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Ruby.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.ShadowOps.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Sparkplug.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.main.popups.bypassneed.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.sparcle.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.mainiac.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.Pickaxes.spicky.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.AutumnQueen.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.BlueTeamLeader.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Punchy.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.RedNosedNite.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.accounterror.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.accountinfo.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.Backup.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.BackupPerfect.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.backpaks.blackshild.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.Clover.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.Enduring.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.EnduringRagnarok.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.firebackpack.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.backpaks.galaxydisc.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.RiftWings.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.Scaly.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.Shark.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.illusionruin.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.WolfPack.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.britebomber.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.galaxycp.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.harleyquincp.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.cp_skins.treeskin.traviscp.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.blackknight.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.ikonikcp.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.wondercp.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.infection.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.laserblast.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.slick.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.takethe.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.FlossEnd.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.FlossSprinkler.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.FlossSwipe.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.ScenarioElf.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.levertat.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.kicking.skins.pinkghoulnokick.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Other.BackupAsk.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.CheckRenegadeAsk.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Dance.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Other.FlossAsk.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.messages.raidersrevenge.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Other.CrystalAsk.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Other.EnduringAsk.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Other.IkonikAsk.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Other.reconask.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.messages.ghoulstyle.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.RenegadeAsk.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.battlebusbanner.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.epicgamesbanner.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.others.banners.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.others.cids.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.others.NewFolder1.renegaderaider.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Picks.Candy.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.diamond.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.startwand.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.Pickaxes.fncspick.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Picks.GalaxyPick.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Picks.Minty.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Picks.Raiders.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Picks.Scythe.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Picks.Squeak.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Picks.Studded.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.driver.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.deufaltraiders.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.arialasualt.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.eliteagent.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.BlackKnight.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Breakpoint.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.ChaosAgent.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.CheckOps.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.CheckRenegade.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.AstroJack.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Dynamo.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Elf.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Backblings.harleyquinn.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Haze.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Hush.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.IkonikFable.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.IkonikOnesie.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.ogghoul.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Razor.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.ReconExpert.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.ReconFRK.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.ReconRTL.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.RenegadeRaider.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.SkullRanger.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Waypoint.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Whiteout.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.items.skins.Wonder.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.nevergunna.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.twist.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.loader.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Menus.LoginMenu.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Update.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.main.popups.CPskinerror.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Credits.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Main.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.DoneMsg.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.main.popups.epicyourgay.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.FreeMsg.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.PaidMsg.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.main.popups.paks.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Menus.Register.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Menus.ResetPass.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.backpacksPanel.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emote.Glowstick.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.EmotesPanel.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.otherPanel.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.pickaxesPanel.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.skinscid.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.Skinsnokick.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.SkinsPanel.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Panels.socals.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Properties.Resources.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Options.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Verify.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.ResetMsg.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls swapper v3.csproj.GenerateResource.cache
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls swapper v3.csproj.CoreCompileInputs.cache
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls swapper v3.csproj.Fody.CopyLocal.cache
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls swapper v3.csproj.CopyComplete
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Birdie.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Lace.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Calisto.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.DemiSkin.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Launch.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.Ginger.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Skins.BeachBomber.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emote.aquaman.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Picks.Vision.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emotes.raidersscorcer.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Annoucement.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\bin\Debug\vls launcher.exe.config
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\bin\Debug\vls launcher.exe.manifest
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\bin\Debug\vls launcher.application
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\bin\Debug\vls launcher.exe
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\bin\Debug\vls launcher.pdb
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls launcher.exe.manifest
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls launcher.application
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls launcher.exe
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls launcher.pdb
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.launcher.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Homepannel.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.store.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.swappers.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls_swapper_v3.Emote.Loader.resources
+C:\Users\jmass\Desktop\mitsuha\vls swapper v3\obj\Debug\vls swapper v3.csprojAssemblyReference.cache

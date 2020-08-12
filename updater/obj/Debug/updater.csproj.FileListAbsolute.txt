@@ -1,0 +1,27 @@
+C:\Users\jmass\Desktop\vls swapper v3\updater\bin\Debug\updater.exe.config
+C:\Users\jmass\Desktop\vls swapper v3\updater\bin\Debug\updater.exe
+C:\Users\jmass\Desktop\vls swapper v3\updater\bin\Debug\updater.pdb
+C:\Users\jmass\Desktop\vls swapper v3\updater\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\jmass\Desktop\vls swapper v3\updater\bin\Debug\Colorful.Console.dll
+C:\Users\jmass\Desktop\vls swapper v3\updater\bin\Debug\Plot.Anima.dll
+C:\Users\jmass\Desktop\vls swapper v3\updater\obj\Debug\updater.csproj.CoreCompileInputs.cache
+C:\Users\jmass\Desktop\vls swapper v3\updater\obj\Debug\updater.csproj.CopyComplete
+C:\Users\jmass\Desktop\vls swapper v3\updater\obj\Debug\updater.exe
+C:\Users\jmass\Desktop\vls swapper v3\updater\obj\Debug\updater.pdb
+C:\Users\jmass\Desktop\vls swapper v3\updater\obj\Debug\updater.csprojAssemblyReference.cache
+C:\Users\jmass\Desktop\Akame\updater\bin\Debug\updater.exe.config
+C:\Users\jmass\Desktop\Akame\updater\bin\Debug\updater.exe
+C:\Users\jmass\Desktop\Akame\updater\bin\Debug\updater.pdb
+C:\Users\jmass\Desktop\Akame\updater\obj\Debug\updater.csprojAssemblyReference.cache
+C:\Users\jmass\Desktop\Akame\updater\obj\Debug\updater.csproj.CoreCompileInputs.cache
+C:\Users\jmass\Desktop\Akame\updater\obj\Debug\updater.exe
+C:\Users\jmass\Desktop\Akame\updater\obj\Debug\updater.pdb
+C:\Users\jmass\Desktop\Akame\updater\obj\Debug\updater.csproj.Fody.CopyLocal.cache
+C:\Users\jmass\Desktop\mitsuha\updater\bin\Debug\updater.exe.config
+C:\Users\jmass\Desktop\mitsuha\updater\bin\Debug\updater.exe
+C:\Users\jmass\Desktop\mitsuha\updater\bin\Debug\updater.pdb
+C:\Users\jmass\Desktop\mitsuha\updater\obj\Debug\updater.csprojAssemblyReference.cache
+C:\Users\jmass\Desktop\mitsuha\updater\obj\Debug\updater.csproj.CoreCompileInputs.cache
+C:\Users\jmass\Desktop\mitsuha\updater\obj\Debug\updater.csproj.Fody.CopyLocal.cache
+C:\Users\jmass\Desktop\mitsuha\updater\obj\Debug\updater.exe
+C:\Users\jmass\Desktop\mitsuha\updater\obj\Debug\updater.pdb

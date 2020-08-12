@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="vls swapper v3.exe" version="1.0.0.1" publicKeyToken="6459e8bf77534d12" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="vls swapper v3" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="vls swapper v3.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bunifu_UI_v1.52.dll" size="225792">
+      <assemblyIdentity name="Bunifu_UI_v1.52" version="1.3.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>J8jOp+eTrOc3QViBpcFrTi2YzkZgnScugsbJBa0tnzY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MaterialSkin.dll" size="587776">
+      <assemblyIdentity name="MaterialSkin" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>uYed8V6CxS6RZscfexd8V71MgomCGmWp0/Uiiz9ga04=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.WindowsAPICodePack.dll" size="104960">
+      <assemblyIdentity name="Microsoft.WindowsAPICodePack" version="1.1.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>QYteepb5phBcxv5FiWqRZOeciEn0C+I6QRtVY6jjoNA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.WindowsAPICodePack.Shell.dll" size="542208">
+      <assemblyIdentity name="Microsoft.WindowsAPICodePack.Shell" version="1.1.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>5vqdnjT/O/Y854JlSxTktUo6vRAiyHvAmQMsKUgVdnI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="vls swapper v3.exe" size="472544">
+      <assemblyIdentity name="vls swapper v3" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>V7uIalyNp67ZQd3AhKmm1KRu1dIPnRrNa7ZisSPyJ94=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="vls swapper v3.exe.config" size="1245">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>d4cfzryMlhJogARhIIupu7iEl2Y2+FvOlGUnCg5AQiQ=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-9PA27AU\jmass" issuerKeyHash="62c6dc3f967ccccf7ad89afe3de3185edbc059aa" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>JtMIDEgVPGb8Qyvbri63VjgUju3ZtVHStHT/+hSketw=</DigestValue></Reference></SignedInfo><SignatureValue>qp7Aipsca1wzZNyRTAmelaxMi4jxqiNbdTra/tgVpv+6Kba5RMINN/HuBD0iFsbgfAvNc7ituINOYSE0uKSHo+HN03RXXKukqHJ6eTTGVsaXP/U/X7rsqHjx3Pi+hX8BbiJ6cnLZbqlevxi+TKfBDHTGjJ7AuO15EtPE0nlRDLs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>9nATDklmJa11KbHsvczwX2TXR7iQtwBi8Fmgdqk08SQBIaT/NxLpM7sy6LJftUpU+rDXCohaB7l4Qfwvt0lneCpuz0u3ClUfTKDx9Fw+XUKCf2cxbUVLsL3IRLmihup3//dZ/87gw7g3D3ZvnEzE9eZfs777aGR2+htt4vEVgaE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="dc7aa414faff74b4d251b5d9ed8e143856b72eaedb2b43fc663c15480c08d326" Description="" Url=""><as:assemblyIdentity name="vls swapper v3.exe" version="1.0.0.1" publicKeyToken="6459e8bf77534d12" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-9PA27AU\jmass</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>pkd5jp3/0PYNgz7NZZbc1OrZONRSHOVsGvq3UxmWJak=</DigestValue></Reference></SignedInfo><SignatureValue>SQ9JQi+a06HIRvFvim5w5/zl8HBCkq8bphTA5V4Y4oRSqQW9Bqem+WQ0nru3A2damZp3INR4PU54sz5of/k4zvrJwY8Cq3YUP8doa+64xHVysk2smxA1Fx1ezK2h27UuCqYkKQbtOwpC15PaYvXdyzB/q+pWh9SEvbZv0SvayIc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>9nATDklmJa11KbHsvczwX2TXR7iQtwBi8Fmgdqk08SQBIaT/NxLpM7sy6LJftUpU+rDXCohaB7l4Qfwvt0lneCpuz0u3ClUfTKDx9Fw+XUKCf2cxbUVLsL3IRLmihup3//dZ/87gw7g3D3ZvnEzE9eZfs777aGR2+htt4vEVgaE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQWoPEXNVCULRKbeFiOSn8jTANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADkAUABBADIANwBBAFUAXABqAG0AYQBzAHMwHhcNMjAwNDI3MjExMDU1WhcNMjEwNDI4MDMxMDU1WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADkAUABBADIANwBBAFUAXABqAG0AYQBzAHMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAPZwEw5JZiWtdSmx7L3M8F9k10e4kLcAYvBZoHapNPEkASGk/zcS6TO7MuiyX7VKVPqw1wqIWge5eEH8L7dJZ3gqbs9LtwpVH0yg8fRcPl1Cgn9nMW1FS7C9yES5oobqd//3Wf/O4MO4Nw92b5xMxPXmX7O++2hkdvobbeLxFYGhAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAxLvhB79ta8Gov4TtcswNma7nrYLYuPFZm9URicshutcY5yrzX3oirAC+ssCOX+NPVTP/OmMyxJrD7g3qlnpWawG91t5TpKlOgg114goCMmj/10otX0eSc7WLKfL6MawCy6vBZ6/KV4wE5yhXH8bouVz2e40ejRN4iE39Ssc70hQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="vls_swapper_v3.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+    <userSettings>
+        <vls_swapper_v3.Properties.Settings>
+            <setting name="RenegadeEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="ismode" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="paksPath" serializeAs="String">
+                <value>C:\Program Files\Epic Games\Fortnite\FortniteGame\Content\Paks</value>
+            </setting>
+            <setting name="ReconEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="offsetskin1" serializeAs="String">
+                <value>1200000000</value>
+            </setting>
+            <setting name="offsetskin2" serializeAs="String">
+                <value>1200000000</value>
+            </setting>
+            <setting name="OgGhoulEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="offsetlobby" serializeAs="String">
+                <value>200000000</value>
+            </setting>
+            <setting name="WonderEnable" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="BlackShieldEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="offsetback" serializeAs="String">
+                <value>70000000</value>
+            </setting>
+            <setting name="GalaxyDiscEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="IkonikFableEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="ElfEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="CloverEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="HushEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="CheckRenegadeEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="CheckeredRenegadeOpsEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="offsetpickmesh" serializeAs="String">
+                <value>1200000000</value>
+            </setting>
+            <setting name="offsetemote" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="offsetpick" serializeAs="String">
+                <value>45000000</value>
+            </setting>
+            <setting name="RaidersEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="ChaosAgentEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="WhiteoutEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="AerialEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="HazeEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="CandyEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="PickaxeGalaxy" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="MintyEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="EnduringEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="EnduringRagnarok" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="SharkEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="WolfPackEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="ScalyEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="RiftWingsEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="ReconFRKEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="ReconRTLEnabled" serializeAs="String">
+                <value>False</value>
+            </setting>
+        </vls_swapper_v3.Properties.Settings>
+    </userSettings>
+</configuration>
