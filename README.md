@@ -30,4 +30,4 @@
 ### Credits
 - Me (https://discord.gg/uJ74gG)
     - Developer 
-    -discord: whey#0001
+    -discord: kaede#5000
